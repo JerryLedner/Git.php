@@ -1,8 +1,0 @@
-{
-    "name": "kbjr/git.php",
-    "autoload": {
-        "psr-4": {
-            "Kbjr\\Git\\": "src/"
-        }
-    }
-}
